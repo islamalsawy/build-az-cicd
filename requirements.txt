@@ -1,2 +1,6 @@
+Flask
+Jinja2
+pandas
+scikit-learn
 pylint
 pytest
